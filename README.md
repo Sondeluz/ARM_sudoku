@@ -1,6 +1,6 @@
 # low_level_sudoku
 System implemented developed along ![@llauragonzalezz](https://github.com/llauragonzalezz) during the 2021/2022 Proyecto Hardware course at Universidad de Zaragoza, consisting of: 
-- A low level (ARM Assembly/C) sudoku candidates generator
+- A low level (ARM Assembly/C) sudoku candidates generator, containing highly optimized ARM functions and calls between C-ARM/ARM-C code
 - A fully functional C sudoku game implemented for the LPC2105 ARM7TDMI-S CPU, with:
   - A FIFO event-based job queue
   - Interaction via GPIO buttons
